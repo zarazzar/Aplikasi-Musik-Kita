@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GABUTKU CERAHKU/Aplikasi-Musik-Kita/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/GABUTKU CERAHKU/Aplikasi-Musik-Kita/app/src/main/res/layout/fragment_album.xml" value="0.3484375" />
+        <entry key="..\:/GABUTKU CERAHKU/Aplikasi-Musik-Kita/app/src/main/res/layout/fragment_artist.xml" value="0.3484375" />
+        <entry key="..\:/GABUTKU CERAHKU/Aplikasi-Musik-Kita/app/src/main/res/layout/fragment_musik.xml" value="0.3484375" />
+        <entry key="..\:/GABUTKU CERAHKU/Aplikasi-Musik-Kita/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.3614583333333333" />
+        <entry key="..\:/GABUTKU CERAHKU/Aplikasi-Musik-Kita/app/src/main/res/menu/menu_top_option.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

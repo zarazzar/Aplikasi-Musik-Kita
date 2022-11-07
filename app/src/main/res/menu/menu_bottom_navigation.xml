@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_musik"
+        android:title="Musik"
+        android:icon="@drawable/ic_music"
+        />
+    <item android:id="@+id/menu_album"
+        android:title="Album"
+        android:icon="@drawable/ic_album"
+        />
+    <item
+        android:id="@+id/menu_artis"
+        android:title="Artis"
+        android:icon="@drawable/ic_artist"
+        />
+</menu>
